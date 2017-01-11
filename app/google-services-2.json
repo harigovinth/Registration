@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "633780478658",
+    "firebase_url": "https://regi-a1ebe.firebaseio.com",
+    "project_id": "regi-a1ebe",
+    "storage_bucket": "regi-a1ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633780478658:android:0be7fd243b0e78b1",
+        "android_client_info": {
+          "package_name": "com.apps.hari.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633780478658-9s05qp5fmgng38ccq8dopefu50nlv1i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeH4YnNPjR5PiXVt-eKes7BTFVarm9UlY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
